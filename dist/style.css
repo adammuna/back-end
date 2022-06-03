@@ -1,0 +1,10 @@
+.itemsContainer{
+    padding: 10px;
+    display:grid ;
+   column-gap: 5px;
+   row-gap: 5px;
+}
+.item{
+    border: 5px solid red;
+    padding: 10px;
+}
